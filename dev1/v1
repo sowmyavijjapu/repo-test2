@@ -1,9 +1,9 @@
-class hello()   #dev1
+class hello()  #dev2
 { 
-  public static void main()   #dev1
+  public static void main()   #dev2
   {
-  system.out println("hello");   #dev1
+  system.out println("hello");  
   }
 
-} 
+}   #dev2
 
